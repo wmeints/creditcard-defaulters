@@ -1,0 +1,8 @@
+{
+    "image": "continuumio/anaconda3",
+    "extensions": [
+        "ms-python.python"
+    ],
+    "postCreateCommand": "install.sh",
+    "forwardPorts": [8889]
+}
