@@ -60,8 +60,14 @@ To start a module, open the corresponding notebook in Visual Studio Code.
 Each notebook contains explanations and instructions for that part of the 
 tutorial.
 
+Solutions
+---------
+Stuck on a notebook and can't get it to work? Don't worry, we've got a working
+solution for you in the `solution`_ folder.
+
 .. _`notebooks/01-prepare-data.ipynb`: notebooks/01-prepare-data.ipynb
 .. _`notebooks/02-train-model.ipynb`: notebooks/02-train-model.ipynb
 .. _`notebooks/03-create-explainer.ipynb`: notebooks/03-create-explainer.ipynb
 .. _`Visual Studio Code`: https://code.visualstudio.com/
 .. _`Python 3.7`: https://www.anaconda.com/products/individual
+.. _`solution`: ./solution
