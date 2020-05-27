@@ -4,6 +4,20 @@ Building your first machine learning in Python
 Welcome to this tutorial, in this tutorial you'll learn how to use Python
 to train a machine learning model. 
 
+Summary
+--------
+**Duration**: 60 minutes
+
+**Type**: Presentation and labs
+
+In this workshop you'll learn how to use scikit-learn and Python to train a 
+basic machine learning model. You'll also learn how to validate and explain
+the model to a non-technical audience.
+
+This workshop uses the UCI credit card defaulters dataset. In this workshop 
+you'll use this dataset to train a classifier that predicts whether someone's 
+going to default his/her credit card payment next month.
+
 System requirements
 --------------------
 For this tutorial you'll need to have the following tools installed on your 
@@ -29,7 +43,7 @@ to get started. Please read through the next section for the tutorial modules.
 
 Tutorial modules
 -----------------
-The tutorial is made out of several modules:
+This tutorial contains the following modules:
 
 * `notebooks/01-prepare-data.ipynb`_: In this module we're going to take a look 
   at the data and prepare a training and testing dataset for the machine 
